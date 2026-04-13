@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-Do not report security issues or sensitive information publicly; instead, disclose them via <security@hotfix.day> or the Security Advisory process.
+Do not report security issues or sensitive information publicly; instead, disclose them via **<security@rdhar.dev>** or the Security Advisory process.
